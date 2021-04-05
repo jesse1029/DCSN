@@ -15,6 +15,10 @@ DCSN: Deep Compressed Sensing Network for Efficient Hyperspectral Data Transmiss
 # Testing
 - run 'testing.py'
 
+# Pretarined model for 1% compression
+- https://cchsu.info/files/DCSN_all_cr_1.pth
+- please put the pth file to ckpt directory.
+
 ### If you find our work useful in your research or publication, please cite our work:
 ```
 @ARTICLE{9257426,
