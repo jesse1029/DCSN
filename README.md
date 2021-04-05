@@ -1,4 +1,5 @@
 # DCSN implementation by Pytorch
+## Official implementation
 DCSN: Deep Compressed Sensing Network for Efficient Hyperspectral Data Transmission of Miniaturized Satellite
 
 # Dependencies
