@@ -44,7 +44,8 @@ python testing.py
 The checkpoint can be found [here](https://cchsu.info/files/DCSN_all_cr_1.pth)
 please put the pth file to ckpt directory.
 
-### If you find our work useful in your research or publication, please cite our work:
+# Citation 
+If you find our work useful in your research or publication, please cite our work:
 ```
 @ARTICLE{dcsn_cchsu,
   author={C. -C. {Hsu} and C. -H. {Lin} and C. -H. {Kao} and Y. -C. {Lin}},
