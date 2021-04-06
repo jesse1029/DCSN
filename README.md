@@ -1,9 +1,10 @@
 # ## Official implementation of DCSN 
 ![pytorch](https://camo.githubusercontent.com/30e61f918ad01af71a013bb40196a671e77cb89ea071cebca8797194e37f1a70/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f7079746f7263682d6c696768746e696e67)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9257426) [[Project Website]](https://chihungkao.github.io/DCSN/DCSN)
 
-DCSN: Deep Compressed Sensing Network for Efficient Hyperspectral Data Transmission of Miniaturized Satellite
-![DCSN Firues](https://chihungkao.github.io/DCSN/fig/Lake-SR1.jpg)
-[Paper](https://ieeexplore.ieee.org/abstract/document/9257426)[Project Website](https://chihungkao.github.io/DCSN/DCSN)
+### DCSN: Deep Compressed Sensing Network for Efficient Hyperspectral Data Transmission of Miniaturized Satellite
+![DCSN Firues](https://chihungkao.github.io/DCSN/fig/City-SR1.jpg)
+<center>Fig.1. Visualized results of the reconstructed hyperspectral image by the proposed DCSN under 1% compression ratio.</center>
 
 # Prerequisites
 Create a conda environment for DCSN. Tested under Python 3.7 and CUDA 10.0 under Ubuntu 16.10/18.04.
