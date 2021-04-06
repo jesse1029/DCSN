@@ -24,9 +24,9 @@ and install all dependencies
 pip install -r requirements.txt
 ```
 # Data prepration
-To generate datasets, please read README.md in folder 'data_preprocessing/'.
-Matlab is required in generating the dataset
-Preparing a file list for training and testing samples (see example in [train_4fig.txt](https://github.com/jesse1029/DCSN/blob/main/train_4fig.txt))
+To generate datasets, please read README.md in folder 'data_preprocessing/'. Matlab is required in generating the dataset.
+
+Preparing a file list for training and testing samples like train.txt and valiation.txt for training and inference produces (see example in [train_4fig.txt](https://github.com/jesse1029/DCSN/blob/main/train_4fig.txt)).
 
 # Training
 Make sure you have right setting for the hyper-parameters in the train_sr.py, then
